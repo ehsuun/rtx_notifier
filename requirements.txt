@@ -1,0 +1,6 @@
+selenium==3.141.0
+matplotlib==2.1.2
+numpy==1.16.3
+pushbullet.py==0.11.0
+ipython==7.18.1
+Pillow==7.2.0
